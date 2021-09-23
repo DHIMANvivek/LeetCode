@@ -1,3 +1,10 @@
+   
+package com.leetcode;
+
+// syntax is not true as there is no main method
+// this only for my reference :)
+
+
 // this is the question of leet code 
 
 // Problem :- Two Sum
