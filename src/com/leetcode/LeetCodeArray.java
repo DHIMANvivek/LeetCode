@@ -1,4 +1,6 @@
-package com.leetcode;
+// this is the question of leet code 
+
+// Problem :- Two Sum
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
