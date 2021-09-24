@@ -4,12 +4,7 @@ class MergeSort {
 	// Merges two subarrays of arr[].
 	// First subarray is arr[l..m]
 	// Second subarray is arr[m+1..r]
-	
-	
-	
-	
-	
-	
+
 //	public void merge(int A[], int m, int B[], int n) {
 //        int insertIndex = m+n-1;
 //        int indexA = m-1,indexB = n-1;
@@ -27,19 +22,6 @@ class MergeSort {
 //        }
 //    }
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	void merge(int arr[], int l, int m, int r) {
 		// Find sizes of two subarrays to be merged
 		int n1 = m - l + 1;
