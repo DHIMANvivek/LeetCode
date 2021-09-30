@@ -28,8 +28,10 @@ public class IntersectionOfTwoNumbers {
 		}
 
 		int[] ans1 = new int[k];
-		for (i = 0; i < k; i++) {
+		for (i = 0; i < k; i++) 
+			for (j = 0; j < k; j++) {
 			ans1[i] = nums1[i];
+			ans1[j] = nums2[j];
 		}
 
 		return ans1;

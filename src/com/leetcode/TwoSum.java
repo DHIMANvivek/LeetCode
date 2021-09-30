@@ -1,4 +1,3 @@
-   
 package com.leetcode;
 
 // syntax is not true as there is no main method
